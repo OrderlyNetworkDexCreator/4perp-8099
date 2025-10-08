@@ -25,7 +25,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "",
   "VITE_SEO_SITE_NAME": "4perp",
   "VITE_SEO_SITE_DESCRIPTION": "4perp is a decentralized perpetual exchange built on BNB Chain, designed for speed, low fees, and deep liquidity.",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/4perp-8099/",
+  "VITE_SEO_SITE_URL": "https://4perp.xyz",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "",
